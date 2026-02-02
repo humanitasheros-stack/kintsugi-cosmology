@@ -31,7 +31,23 @@ This work is intended as an open, evolving framework. You are invited to:
 - build research, practice, or art on top of it  
 - translate or adapt it for other contexts  
 
-Please see the `LICENSE` file for details.
+## License
+
+This work is released under the Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially  
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit and indicate if changes were made.  
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.  
+
+This ensures that Kintsugi Cosmology remains a shared, evolving commons project, where all future adaptations stay as open and accessible as the original work.
+
+Please see the `LICENSE` file for full details.
 
 ## Citation
 
