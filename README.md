@@ -3,10 +3,6 @@
 **Kintsugi Cosmology: Integrated Rupture and Consciousness**  
 A unified theoretical framework proposing that consciousness and being emerge not from preserved unity, but from the visible integration of rupture and fragmentation.
 
-This repository contains the full text of the work in accessible formats:
-
-- `Kintsugi-Cosmology-v1.pdf`
-- `Kintsugi-Cosmology-v1.docx`
 
 ## What this is
 
